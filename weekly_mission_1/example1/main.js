@@ -30,3 +30,5 @@ const myModule = (() => {
 
 
 console.log(myModule)
+
+// edicion por consola pruevas de commit
